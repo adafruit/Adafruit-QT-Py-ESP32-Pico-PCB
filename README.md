@@ -34,15 +34,15 @@ Runs Arduino like a dream, or use the ESP IDF for more control over your project
 * Built-in RGB NeoPixel LED with power control to reduce quiescent power in deep sleep
 * Battery input pads on underside with diode protection for external battery packs up to 6V input
 * 13 GPIO pins:
-* 11 on breakout pads, 2 more on QT connector
-* 10 x 12-bit analog inputs
-* Dual 8-bit analog output DACs on A0/A1
-* PWM outputs on any pin
-* Two I2C ports, one on the breakout pads, and another with STEMMA QT plug-n-play connector
-* Hardware UART in addition to the USB-serial UART
-* Hardware SPI on the high speed SPI peripheral pins
-* Hardware I2S on any pins
-* 8 x Capacitive Touch with no additional components required
+  * 11 on breakout pads, 2 more on QT connector
+  * 10 x 12-bit analog inputs
+  * Dual 8-bit analog output DACs on A0/A1
+  * PWM outputs on any pin
+  * Two I2C ports, one on the breakout pads, and another with STEMMA QT plug-n-play connector
+  * Hardware UART in addition to the USB-serial UART
+  * Hardware SPI on the high speed SPI peripheral pins
+  * Hardware I2S on any pins
+  * 8 x Capacitive Touch with no additional components required
 * 3.3V regulator with 600mA peak output
 * Light sleep at 4mA, deep sleep at ~70uA
 * Reset switch for starting your project code over, boot 0 button for entering bootloader mode or for user reading
